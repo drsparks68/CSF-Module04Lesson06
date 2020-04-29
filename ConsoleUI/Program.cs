@@ -31,6 +31,7 @@ namespace ConsoleUI
     //From this point on, only place code for user interface in Program.cs
     //Everything else should go into a class library
 
-    //Pro-Tip: 
+    //Pro-Tip: Store as much of your code in class libraries as possible.  Dont put user interface code in CL! 
+    //Can create a library specific to console apps
 
-    //Homework: 
+    //Homework: Create a class library that holds a person class.  Use that class in a console application.
